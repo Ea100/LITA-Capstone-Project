@@ -4,12 +4,15 @@ This project analyses retail sales data to uncover key insights into product per
 ### Project Title: Sales Performance Analysis for a Retail Store
 
 ### Project Overview
+---
 This project explores a retail store's sales data to gain insights into product performance, regional sales, and monthly trends. The analysis began with Excel, using pivot tables and formulas to identify key metrics and sales patterns. SQL queries were then used to uncover additional insights, including product category totals, top customers, and regional contributions. Finally, an interactive Power BI dashboard was created to visually represent the findings, helping to identify high-performing products and trends across different regions.
 
 ### Data Sources
+---
 The data for this project was provided in an Excel file titled "LITA Capstone Dataset.xlsx", containing detailed sales information by order ID, product, customer, and region. For SQL analysis, the data was converted to a CSV (comma-delimited) file for easier import into SQL Server
 
 ### Tools Used
+---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
@@ -19,12 +22,14 @@ The data for this project was provided in an Excel file titled "LITA Capstone Da
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations
+---
 During the initial phase of the Data cleaning and preparations, the following actions were performed:
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formatting
 
 ### Exploratory Data Analysis
+---
 EDA questions focused on understanding sales trends, product performance, and regional contributions:
 - Which products generate the highest and lowest total revenue?
 - What are the monthly sales trends, and are there any seasonal patterns?
@@ -33,6 +38,7 @@ EDA questions focused on understanding sales trends, product performance, and re
 - Which product categories contribute most to total sales?
 
 ### Data Analysis
+---
 ```SQL
 SELECT format(SUM(Sales),'c') AS Total_Sales, Product
 FROM [dbo].[LITA Sales DAta]
