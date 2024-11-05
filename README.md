@@ -8,3 +8,11 @@ This project explores a retail store's sales data to gain insights into product 
 
 ### Data Sources
 The data for this project was provided in an Excel file titled "LITA Capstone Dataset.xlsx", containing detailed sales information by order ID, product, customer, and region. For SQL analysis, the data was converted to a CSV (comma-delimited) file for easier import into SQL Server
+
+### Tools Used
+- Microsoft Excel 
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization
+- SQL – Structured Query Language for querying of Data
+- GitHub for Portfolio Building
