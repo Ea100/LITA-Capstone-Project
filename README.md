@@ -28,7 +28,7 @@ The data for this project was provided in an Excel file titled "LITA Capstone Da
   3. For Data Visualization
 - SQL – Structured Query Language for querying of Data
 - PowerBI - Used for creating an interactive dashboard to visualize key insights
-- GitHub for Portfolio Building
+- GitHub - For Portfolio Building
 
 ### Data Cleaning and Preparations
 ---
