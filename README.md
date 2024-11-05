@@ -55,6 +55,7 @@ GROUP BY Product
 ```
 
 ### Data Visualizations
+![Sales Performance Analysis Dashboard](https://github.com/user-attachments/assets/bb9c6b20-ab56-4ca6-a56c-0f16333758c2)
 
 ### Results/Findings
 The analysis results are summarized as follows
