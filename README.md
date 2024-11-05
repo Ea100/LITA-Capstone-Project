@@ -55,3 +55,11 @@ GROUP BY Product
 ```
 
 ### Data Visualizations
+
+### Results/Findings
+The analysis results are summarized as follows
+
+### Recommendations
+Based on the analysis carried out, we recommend the following:
+
+### Limitations
