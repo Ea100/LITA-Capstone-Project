@@ -23,3 +23,12 @@ During the initial phase of the Data cleaning and preparations, the following ac
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formatting
+
+### Exploratory Data Analysis
+EDA questions focused on understanding sales trends, product performance, and regional contributions:
+- Which products generate the highest and lowest total revenue?
+- What are the monthly sales trends, and are there any seasonal patterns?
+- How does sales performance vary across different regions?
+- Who are the top 5 customers by total purchase amount?
+- Which product categories contribute most to total sales?
+
