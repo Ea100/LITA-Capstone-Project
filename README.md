@@ -32,3 +32,9 @@ EDA questions focused on understanding sales trends, product performance, and re
 - Who are the top 5 customers by total purchase amount?
 - Which product categories contribute most to total sales?
 
+### Data Analysis
+```SQL
+SELECT format(SUM(Sales),'c') AS Total_Sales, Product
+FROM [dbo].[LITA Sales DAta]
+GROUP BY Product
+```
