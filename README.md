@@ -44,3 +44,5 @@ SELECT format(SUM(Sales),'c') AS Total_Sales, Product
 FROM [dbo].[LITA Sales DAta]
 GROUP BY Product
 ```
+
+### Data Visualizations
