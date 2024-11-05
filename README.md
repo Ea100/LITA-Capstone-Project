@@ -15,4 +15,11 @@ The data for this project was provided in an Excel file titled "LITA Capstone Da
   2. For Analysis
   3. For Data Visualization
 - SQL – Structured Query Language for querying of Data
+- PowerBI - Used for creating an interactive dashboard to visualize key insights
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparations
+During the initial phase of the Data cleaning and preparations, the following actions were performed:
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
