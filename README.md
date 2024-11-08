@@ -55,12 +55,21 @@ GROUP BY Product
 ```
 
 ### Data Visualizations
+---
 ![Sales Performance Analysis Dashboard](https://github.com/user-attachments/assets/bb9c6b20-ab56-4ca6-a56c-0f16333758c2)
 
 ### Results/Findings
-The analysis results are summarized as follows
+---
+- The analysis results are summarized as follows:
+- Top-Performing Products: Analysis revealed that certain products generated significantly higher revenue than others, with Hats and Shoes leading in total sales.
+- Regional Performance: The South region contributed the highest percentage of sales, while the West had the lowest sales volume.
+- Seasonal Trends: Sales increased markedly in certain months, indicating potential seasonality in customer purchasing behaviour.
+- Top Customers: Identified the top 5 customers who contributed a notable share of the overall revenue.
+
 
 ### Recommendations
+---
 Based on the analysis carried out, we recommend the following:
 
 ### Limitations
+---
