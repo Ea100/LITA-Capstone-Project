@@ -58,6 +58,7 @@ GROUP BY Product
 ---
 ![SQL SalesData](https://github.com/user-attachments/assets/90b46b0b-985c-4592-ad71-35f4ab00bebb)
 ![Sales Performance Analysis Dashboard](https://github.com/user-attachments/assets/bb9c6b20-ab56-4ca6-a56c-0f16333758c2)
+![Sales Performance Analysis Power BI Dashboard](https://github.com/user-attachments/assets/e81bdeb0-c7ef-4944-b455-527c5cd4fdc9)
 
 ### Results/Findings
 ---
