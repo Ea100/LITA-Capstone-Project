@@ -70,6 +70,8 @@ GROUP BY Product
 ### Recommendations
 ---
 Based on the analysis carried out, we recommend the following:
+- Target Low-Performing Regions: Develop region-specific marketing strategies to drive growth in underperforming areas like the West region.
+- Reward Top Customers: Implement loyalty programs or exclusive offers to retain top customers and increase their lifetime value.
 
 ### Limitations
 ---
