@@ -56,6 +56,7 @@ GROUP BY Product
 
 ### Data Visualizations
 ---
+![SQL SalesData](https://github.com/user-attachments/assets/90b46b0b-985c-4592-ad71-35f4ab00bebb)
 ![Sales Performance Analysis Dashboard](https://github.com/user-attachments/assets/bb9c6b20-ab56-4ca6-a56c-0f16333758c2)
 
 ### Results/Findings
